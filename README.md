@@ -8,7 +8,7 @@ Pour exécuter ce projet:
 Présentation du projet:  Ce projet est une application CRUD des pokédex, chaque pokedex est identifié par son nom unique, sa taille, sa couleur, un ou plusieurs types et peut etre une évolution d'un aute pokedex 
 
 
-Groupe: kebiri karima
+Groupe 15: kebiri karima
 
 
 Listes des fonctionnalités implémentées:
